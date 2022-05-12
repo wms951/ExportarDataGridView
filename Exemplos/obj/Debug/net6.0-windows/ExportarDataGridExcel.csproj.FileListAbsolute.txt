@@ -1,0 +1,17 @@
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\bin\Debug\net6.0-windows\ExportarDataGridExcel.exe
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\bin\Debug\net6.0-windows\ExportarDataGridExcel.deps.json
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\bin\Debug\net6.0-windows\ExportarDataGridExcel.runtimeconfig.json
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\bin\Debug\net6.0-windows\ExportarDataGridExcel.dll
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\bin\Debug\net6.0-windows\ExportarDataGridExcel.pdb
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\ExportarDataGridExcel.csproj.AssemblyReference.cache
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\Exemplos.Form1.resources
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\ExportarDataGridExcel.csproj.GenerateResource.cache
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\ExportarDataGridExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\ExportarDataGridExcel.AssemblyInfoInputs.cache
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\ExportarDataGridExcel.AssemblyInfo.cs
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\ExportarDataGridExcel.csproj.CoreCompileInputs.cache
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\ExportarDataGridExcel.dll
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\refint\ExportarDataGridExcel.dll
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\ExportarDataGridExcel.pdb
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\ExportarDataGridExcel.genruntimeconfig.cache
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\ref\ExportarDataGridExcel.dll

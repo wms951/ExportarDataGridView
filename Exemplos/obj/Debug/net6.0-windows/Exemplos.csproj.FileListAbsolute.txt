@@ -1,0 +1,17 @@
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\bin\Debug\net6.0-windows\Exemplos.exe
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\bin\Debug\net6.0-windows\Exemplos.deps.json
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\bin\Debug\net6.0-windows\Exemplos.runtimeconfig.json
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\bin\Debug\net6.0-windows\Exemplos.dll
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\bin\Debug\net6.0-windows\Exemplos.pdb
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\Exemplos.csproj.AssemblyReference.cache
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\Exemplos.Form1.resources
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\Exemplos.csproj.GenerateResource.cache
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\Exemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\Exemplos.AssemblyInfoInputs.cache
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\Exemplos.AssemblyInfo.cs
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\Exemplos.csproj.CoreCompileInputs.cache
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\Exemplos.dll
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\refint\Exemplos.dll
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\Exemplos.pdb
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\Exemplos.genruntimeconfig.cache
+C:\Users\Walisson\source\repos\Exemplos\Exemplos\obj\Debug\net6.0-windows\ref\Exemplos.dll
